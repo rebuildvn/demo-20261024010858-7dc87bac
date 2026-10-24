@@ -7,10 +7,11 @@
 | | |
 |---|---|
 | Demo website | https://demo-20261024010858-7dc87bac.demo.rebuild.vn/ |
+| Repository | https://github.com/rebuildvn/demo-20261024010858-7dc87bac |
 | Original website | https://nhakhoavietducdn.vn/ |
 | Project | demo-20261024010858-7dc87bac |
 | Language | vi |
-| Content written by | AI (gemini) |
+| Content written by | AI (openrouter) |
 
 ## Original website
 
@@ -43,20 +44,21 @@ The demo rebuilds **https://nhakhoavietducdn.vn/** (host `nhakhoavietducdn.vn`):
 - Tagline: Chất Lượng Tạo Thương Hiệu - Uy Tín Tạo Niềm Tin
 - About the business: Nha Khoa Việt Đức ứng dụng các công nghệ tiêu chuẩn Đức và Châu Âu, mang đến nụ cười rạng rỡ và dịch vụ chăm sóc răng miệng chất lượng cao tại Đà Nẵng.
 - Hero: Chất Lượng Tạo Thương Hiệu - Uy Tín Tạo Niềm Tin
-- Services / products (6): Chỉnh nha / Niềng răng, Bọc răng sứ thẩm mỹ, Cấy ghép Implant, Mặt dán sứ Veneer, Điều trị nội nha, viêm tuỷ răng, Tẩy trắng răng
+- Services / products (7): Chỉnh nha / Niềng răng, Bọc răng sứ thẩm mỹ, Cấy ghép Implant, Mặt dán sứ Veneer, Điều trị nội nha, viêm tuỷ răng, Tẩy trắng răng, Trám răng thẩm mỹ
 - Sections: hero, about, services, location, contact.
 
 ## Done
 
 - [x] 2026-10-24 — Lead received; the original website was read.
 - [x] Brand colors and fonts measured on the original website.
-- [x] Website generated from the Rebuild template (contact form, live chat, events, demo call-to-action), content by gemini.
+- [x] Website generated from the Rebuild template (contact form, live chat, events, demo call-to-action), content by openrouter.
+- [x] Rework round 1 (AI agent) — Thêm dịch vụ hoặc sản phẩm còn thiếu; Dùng đúng logo và màu thương hiệu; Thêm hình ảnh phù hợp; Cải thiện bố cục trên điện thoại
 
 ## Planned
 
 - [ ] Deploy this version to the demo domain (the Rebuild worker polls about every 15 minutes).
 - [ ] Staff review of the demo in the SMEUp app: approve, reject, or request changes.
-- Change rounds left: **3 of 3** (after that the demo can only be approved or rejected).
+- Change rounds left: **2 of 3** (after that the demo can only be approved or rejected).
 - [ ] After approval: the demo link is emailed to the lead; they can ask for the contract or a call from the demo itself.
 - [ ] Production: the customer's own photos and logo, their domain, and the final content check.
 
